@@ -1,0 +1,2892 @@
+-------------------------------------------
+Time: 2016-12-12 19:53:02
+-------------------------------------------
+
+========= 2016-12-12 19:53:02 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:03
+-------------------------------------------
+
+========= 2016-12-12 19:53:03 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:04
+-------------------------------------------
+
+========= 2016-12-12 19:53:04 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:05
+-------------------------------------------
+
+========= 2016-12-12 19:53:05 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:06
+-------------------------------------------
+
+========= 2016-12-12 19:53:06 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:07
+-------------------------------------------
+
+========= 2016-12-12 19:53:07 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:08
+-------------------------------------------
+
+========= 2016-12-12 19:53:08 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:09
+-------------------------------------------
+
+========= 2016-12-12 19:53:09 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:10
+-------------------------------------------
+
+========= 2016-12-12 19:53:10 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:11
+-------------------------------------------
+
+========= 2016-12-12 19:53:11 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:12
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 19:53:12 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 19:53:13
+-------------------------------------------
+
+========= 2016-12-12 19:53:13 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:53:14
+-------------------------------------------
+
+========= 2016-12-12 19:53:14 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 73, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 19:55:30
+-------------------------------------------
+
+========= 2016-12-12 19:55:30 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:55:31
+-------------------------------------------
+
+========= 2016-12-12 19:55:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:55:32
+-------------------------------------------
+
+========= 2016-12-12 19:55:32 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:55:33
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 19:55:33 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 19:55:34
+-------------------------------------------
+
+========= 2016-12-12 19:55:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:55:35
+-------------------------------------------
+
+========= 2016-12-12 19:55:35 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 73, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 19:56:26
+-------------------------------------------
+
+========= 2016-12-12 19:56:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:56:27
+-------------------------------------------
+
+========= 2016-12-12 19:56:27 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:56:28
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 19:56:28 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 19:56:29
+-------------------------------------------
+
+========= 2016-12-12 19:56:29 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:56:30
+-------------------------------------------
+
+========= 2016-12-12 19:56:30 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 73, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 19:57:15
+-------------------------------------------
+
+========= 2016-12-12 19:57:15 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:16
+-------------------------------------------
+
+========= 2016-12-12 19:57:16 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:17
+-------------------------------------------
+
+========= 2016-12-12 19:57:17 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:18
+-------------------------------------------
+
+========= 2016-12-12 19:57:18 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:19
+-------------------------------------------
+
+========= 2016-12-12 19:57:19 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:20
+-------------------------------------------
+
+========= 2016-12-12 19:57:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:21
+-------------------------------------------
+
+========= 2016-12-12 19:57:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:22
+-------------------------------------------
+
+========= 2016-12-12 19:57:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:23
+-------------------------------------------
+
+========= 2016-12-12 19:57:23 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:24
+-------------------------------------------
+
+========= 2016-12-12 19:57:24 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:25
+-------------------------------------------
+
+========= 2016-12-12 19:57:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:26
+-------------------------------------------
+
+========= 2016-12-12 19:57:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:27
+-------------------------------------------
+
+========= 2016-12-12 19:57:27 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:28
+-------------------------------------------
+
+========= 2016-12-12 19:57:28 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:29
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 19:57:29 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}]
+Row(payload=u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,')
+-------------------------------------------
+Time: 2016-12-12 19:57:30
+-------------------------------------------
+
+========= 2016-12-12 19:57:30 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:31
+-------------------------------------------
+
+========= 2016-12-12 19:57:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:57:32
+-------------------------------------------
+
+========= 2016-12-12 19:57:32 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 74, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:01:04
+-------------------------------------------
+
+========= 2016-12-12 20:01:04 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:05
+-------------------------------------------
+
+========= 2016-12-12 20:01:05 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:06
+-------------------------------------------
+
+========= 2016-12-12 20:01:06 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:07
+-------------------------------------------
+
+========= 2016-12-12 20:01:07 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:08
+-------------------------------------------
+
+========= 2016-12-12 20:01:08 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:09
+-------------------------------------------
+
+========= 2016-12-12 20:01:09 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:10
+-------------------------------------------
+
+========= 2016-12-12 20:01:10 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:11
+-------------------------------------------
+
+========= 2016-12-12 20:01:11 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:12
+-------------------------------------------
+
+========= 2016-12-12 20:01:12 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:13
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:01:13 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}]
+Row(payload=u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,')
+-------------------------------------------
+Time: 2016-12-12 20:01:14
+-------------------------------------------
+
+========= 2016-12-12 20:01:14 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:15
+-------------------------------------------
+
+========= 2016-12-12 20:01:15 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:16
+-------------------------------------------
+
+========= 2016-12-12 20:01:16 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:17
+-------------------------------------------
+
+========= 2016-12-12 20:01:17 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:18
+-------------------------------------------
+
+========= 2016-12-12 20:01:18 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:19
+-------------------------------------------
+
+========= 2016-12-12 20:01:19 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:20
+-------------------------------------------
+
+========= 2016-12-12 20:01:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:21
+-------------------------------------------
+
+========= 2016-12-12 20:01:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:22
+-------------------------------------------
+
+========= 2016-12-12 20:01:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:01:23
+-------------------------------------------
+
+========= 2016-12-12 20:01:23 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 74, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:02:33
+-------------------------------------------
+
+========= 2016-12-12 20:02:33 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:34
+-------------------------------------------
+
+========= 2016-12-12 20:02:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:35
+-------------------------------------------
+
+========= 2016-12-12 20:02:35 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:36
+-------------------------------------------
+
+========= 2016-12-12 20:02:36 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:37
+-------------------------------------------
+
+========= 2016-12-12 20:02:37 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:38
+-------------------------------------------
+
+========= 2016-12-12 20:02:38 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:39
+-------------------------------------------
+
+========= 2016-12-12 20:02:39 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:40
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:02:40 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,
+-------------------------------------------
+Time: 2016-12-12 20:02:41
+-------------------------------------------
+
+========= 2016-12-12 20:02:41 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:42
+-------------------------------------------
+
+========= 2016-12-12 20:02:42 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:43
+-------------------------------------------
+
+========= 2016-12-12 20:02:43 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:44
+-------------------------------------------
+
+========= 2016-12-12 20:02:44 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:45
+-------------------------------------------
+
+========= 2016-12-12 20:02:45 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:46
+-------------------------------------------
+
+========= 2016-12-12 20:02:46 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:47
+-------------------------------------------
+
+========= 2016-12-12 20:02:47 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:48
+-------------------------------------------
+
+========= 2016-12-12 20:02:48 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:02:49
+-------------------------------------------
+
+========= 2016-12-12 20:02:49 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 74, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:04:56
+-------------------------------------------
+
+========= 2016-12-12 20:04:56 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:04:57
+-------------------------------------------
+
+========= 2016-12-12 20:04:57 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:04:58
+-------------------------------------------
+
+========= 2016-12-12 20:04:58 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:04:59
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:04:59 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+-------------------------------------------
+Time: 2016-12-12 20:05:00
+-------------------------------------------
+
+========= 2016-12-12 20:05:00 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:01
+-------------------------------------------
+
+========= 2016-12-12 20:05:01 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:02
+-------------------------------------------
+
+========= 2016-12-12 20:05:02 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:03
+-------------------------------------------
+
+========= 2016-12-12 20:05:03 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:04
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:05:04 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+-------------------------------------------
+Time: 2016-12-12 20:05:05
+-------------------------------------------
+
+========= 2016-12-12 20:05:05 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:06
+-------------------------------------------
+
+========= 2016-12-12 20:05:06 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:07
+-------------------------------------------
+
+========= 2016-12-12 20:05:07 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:08
+-------------------------------------------
+
+========= 2016-12-12 20:05:08 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:09
+-------------------------------------------
+
+========= 2016-12-12 20:05:09 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:05:10
+-------------------------------------------
+
+========= 2016-12-12 20:05:10 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 74, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:06:31
+-------------------------------------------
+
+========= 2016-12-12 20:06:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:06:32
+-------------------------------------------
+
+========= 2016-12-12 20:06:32 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:06:33
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:06:33 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 20:06:34
+-------------------------------------------
+
+========= 2016-12-12 20:06:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:06:35
+-------------------------------------------
+
+========= 2016-12-12 20:06:35 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:06:36
+-------------------------------------------
+
+========= 2016-12-12 20:06:36 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:06:37
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:06:37 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 20:06:38
+-------------------------------------------
+
+========= 2016-12-12 20:06:38 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:06:39
+-------------------------------------------
+
+========= 2016-12-12 20:06:39 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:06:40
+-------------------------------------------
+
+========= 2016-12-12 20:06:40 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:06:41
+-------------------------------------------
+
+========= 2016-12-12 20:06:41 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 74, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:07:34
+-------------------------------------------
+
+========= 2016-12-12 20:07:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:35
+-------------------------------------------
+
+========= 2016-12-12 20:07:35 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:36
+-------------------------------------------
+
+========= 2016-12-12 20:07:36 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:37
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:07:37 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 20:07:38
+-------------------------------------------
+
+========= 2016-12-12 20:07:38 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:39
+-------------------------------------------
+
+========= 2016-12-12 20:07:39 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:40
+-------------------------------------------
+
+========= 2016-12-12 20:07:40 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:41
+-------------------------------------------
+
+========= 2016-12-12 20:07:41 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:42
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:07:42 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 20:07:43
+-------------------------------------------
+
+========= 2016-12-12 20:07:43 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:44
+-------------------------------------------
+
+========= 2016-12-12 20:07:44 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:45
+-------------------------------------------
+
+========= 2016-12-12 20:07:45 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:46
+-------------------------------------------
+
+========= 2016-12-12 20:07:46 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:07:47
+-------------------------------------------
+
+========= 2016-12-12 20:07:47 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 74, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:12:03
+-------------------------------------------
+
+========= 2016-12-12 20:12:03 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:04
+-------------------------------------------
+
+========= 2016-12-12 20:12:04 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:05
+-------------------------------------------
+
+========= 2016-12-12 20:12:05 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:06
+-------------------------------------------
+
+========= 2016-12-12 20:12:06 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:07
+-------------------------------------------
+
+========= 2016-12-12 20:12:07 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:08
+-------------------------------------------
+
+========= 2016-12-12 20:12:08 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:09
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:12:09 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+-------------------------------------------
+Time: 2016-12-12 20:12:10
+-------------------------------------------
+
+========= 2016-12-12 20:12:10 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:11
+-------------------------------------------
+
+========= 2016-12-12 20:12:11 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:12
+-------------------------------------------
+
+========= 2016-12-12 20:12:12 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:13
+-------------------------------------------
+
+========= 2016-12-12 20:12:13 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:12:14
+-------------------------------------------
+
+========= 2016-12-12 20:12:14 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 74, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 12
+    from __future__ import print_function
+SyntaxError: from __future__ imports must occur at the beginning of the file
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 12
+    from __future__ import print_function
+SyntaxError: from __future__ imports must occur at the beginning of the file
+-------------------------------------------
+Time: 2016-12-12 20:15:32
+-------------------------------------------
+
+========= 2016-12-12 20:15:32 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:33
+-------------------------------------------
+
+========= 2016-12-12 20:15:33 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:34
+-------------------------------------------
+
+========= 2016-12-12 20:15:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:35
+-------------------------------------------
+
+========= 2016-12-12 20:15:35 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:36
+-------------------------------------------
+
+========= 2016-12-12 20:15:36 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:37
+-------------------------------------------
+
+========= 2016-12-12 20:15:37 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:38
+-------------------------------------------
+
+========= 2016-12-12 20:15:38 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:39
+-------------------------------------------
+
+========= 2016-12-12 20:15:39 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:40
+-------------------------------------------
+
+========= 2016-12-12 20:15:40 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:41
+-------------------------------------------
+
+========= 2016-12-12 20:15:41 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:42
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:15:42 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+-------------------------------------------
+Time: 2016-12-12 20:15:43
+-------------------------------------------
+
+========= 2016-12-12 20:15:43 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:44
+-------------------------------------------
+
+========= 2016-12-12 20:15:44 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:45
+-------------------------------------------
+
+========= 2016-12-12 20:15:45 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:46
+-------------------------------------------
+
+========= 2016-12-12 20:15:46 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:15:47
+-------------------------------------------
+
+========= 2016-12-12 20:15:47 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 77, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:29:46
+-------------------------------------------
+
+========= 2016-12-12 20:29:46 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:47
+-------------------------------------------
+
+========= 2016-12-12 20:29:47 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:48
+-------------------------------------------
+
+========= 2016-12-12 20:29:48 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:49
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:29:49 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(country=u'AUT')
+Count below
+1
+-------------------------------------------
+Time: 2016-12-12 20:29:50
+-------------------------------------------
+
+========= 2016-12-12 20:29:50 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:51
+-------------------------------------------
+
+========= 2016-12-12 20:29:51 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:52
+-------------------------------------------
+
+========= 2016-12-12 20:29:52 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:53
+-------------------------------------------
+
+========= 2016-12-12 20:29:53 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:54
+-------------------------------------------
+
+========= 2016-12-12 20:29:54 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:55
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:29:55 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(country=u'AUT')
+Count below
+1
+-------------------------------------------
+Time: 2016-12-12 20:29:56
+-------------------------------------------
+
+========= 2016-12-12 20:29:56 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:57
+-------------------------------------------
+
+========= 2016-12-12 20:29:57 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:58
+-------------------------------------------
+
+========= 2016-12-12 20:29:58 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:29:59
+-------------------------------------------
+
+========= 2016-12-12 20:29:59 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:30:00
+-------------------------------------------
+
+========= 2016-12-12 20:30:00 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:30:01
+-------------------------------------------
+
+========= 2016-12-12 20:30:01 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 81, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:31:42
+-------------------------------------------
+
+========= 2016-12-12 20:31:42 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:43
+-------------------------------------------
+
+========= 2016-12-12 20:31:43 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:44
+-------------------------------------------
+
+========= 2016-12-12 20:31:44 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:45
+-------------------------------------------
+
+========= 2016-12-12 20:31:45 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:46
+-------------------------------------------
+
+========= 2016-12-12 20:31:46 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:47
+-------------------------------------------
+
+========= 2016-12-12 20:31:47 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:48
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:31:48 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(country=u'Austria', location=u'AUT', standard=u'TLYCG', standardExp=u'Total government expenditure')
+Count below
+1
+-------------------------------------------
+Time: 2016-12-12 20:31:49
+-------------------------------------------
+
+========= 2016-12-12 20:31:49 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:50
+-------------------------------------------
+
+========= 2016-12-12 20:31:50 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:51
+-------------------------------------------
+
+========= 2016-12-12 20:31:51 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:52
+-------------------------------------------
+
+========= 2016-12-12 20:31:52 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:53
+-------------------------------------------
+
+========= 2016-12-12 20:31:53 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:54
+-------------------------------------------
+
+========= 2016-12-12 20:31:54 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:55
+-------------------------------------------
+
+========= 2016-12-12 20:31:55 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:56
+-------------------------------------------
+
+========= 2016-12-12 20:31:56 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:31:57
+-------------------------------------------
+
+========= 2016-12-12 20:31:57 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 81, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:33:17
+-------------------------------------------
+
+========= 2016-12-12 20:33:17 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:18
+-------------------------------------------
+
+========= 2016-12-12 20:33:18 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:19
+-------------------------------------------
+
+========= 2016-12-12 20:33:19 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:20
+-------------------------------------------
+
+========= 2016-12-12 20:33:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:21
+-------------------------------------------
+
+========= 2016-12-12 20:33:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:22
+-------------------------------------------
+
+========= 2016-12-12 20:33:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:23
+-------------------------------------------
+
+========= 2016-12-12 20:33:23 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:24
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:33:24 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(country=u'Austria', location=u'AUT', transact=u'TLYCG', transaction=u'Total government expenditure')
++-------+--------+--------+--------------------+
+|country|location|transact|         transaction|
++-------+--------+--------+--------------------+
+|Austria|     AUT|   TLYCG|Total government ...|
++-------+--------+--------+--------------------+
+
+-------------------------------------------
+Time: 2016-12-12 20:33:25
+-------------------------------------------
+
+========= 2016-12-12 20:33:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:26
+-------------------------------------------
+
+========= 2016-12-12 20:33:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:27
+-------------------------------------------
+
+========= 2016-12-12 20:33:27 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:28
+-------------------------------------------
+
+========= 2016-12-12 20:33:28 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:29
+-------------------------------------------
+
+========= 2016-12-12 20:33:29 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:30
+-------------------------------------------
+
+========= 2016-12-12 20:33:30 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:31
+-------------------------------------------
+
+========= 2016-12-12 20:33:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:32
+-------------------------------------------
+
+========= 2016-12-12 20:33:32 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:33
+-------------------------------------------
+
+========= 2016-12-12 20:33:33 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:33:34
+-------------------------------------------
+
+========= 2016-12-12 20:33:34 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 81, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:42:11
+-------------------------------------------
+
+========= 2016-12-12 20:42:11 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:12
+-------------------------------------------
+
+========= 2016-12-12 20:42:12 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:13
+-------------------------------------------
+
+========= 2016-12-12 20:42:13 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:14
+-------------------------------------------
+
+========= 2016-12-12 20:42:14 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:15
+-------------------------------------------
+
+========= 2016-12-12 20:42:15 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:16
+-------------------------------------------
+
+========= 2016-12-12 20:42:16 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:17
+-------------------------------------------
+
+========= 2016-12-12 20:42:17 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:18
+-------------------------------------------
+
+========= 2016-12-12 20:42:18 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:19
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:42:19 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|666.66|2010|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+
+-------------------------------------------
+Time: 2016-12-12 20:42:20
+-------------------------------------------
+
+========= 2016-12-12 20:42:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:21
+-------------------------------------------
+
+========= 2016-12-12 20:42:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:22
+-------------------------------------------
+
+========= 2016-12-12 20:42:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:23
+-------------------------------------------
+
+========= 2016-12-12 20:42:23 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:24
+-------------------------------------------
+
+========= 2016-12-12 20:42:24 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:25
+-------------------------------------------
+
+========= 2016-12-12 20:42:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:42:26
+-------------------------------------------
+
+========= 2016-12-12 20:42:26 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 85, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:51:05
+-------------------------------------------
+
+========= 2016-12-12 20:51:05 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:06
+-------------------------------------------
+
+========= 2016-12-12 20:51:06 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:07
+-------------------------------------------
+
+========= 2016-12-12 20:51:07 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:08
+-------------------------------------------
+
+========= 2016-12-12 20:51:08 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:09
+-------------------------------------------
+
+========= 2016-12-12 20:51:09 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:10
+-------------------------------------------
+
+========= 2016-12-12 20:51:10 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:11
+-------------------------------------------
+
+========= 2016-12-12 20:51:11 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:12
+-------------------------------------------
+
+========= 2016-12-12 20:51:12 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:13
+-------------------------------------------
+
+========= 2016-12-12 20:51:13 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:14
+-------------------------------------------
+
+========= 2016-12-12 20:51:14 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:15
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:51:15 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
+-------------------------------------------
+Time: 2016-12-12 20:51:16
+-------------------------------------------
+
+========= 2016-12-12 20:51:16 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:17
+-------------------------------------------
+
+========= 2016-12-12 20:51:17 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:18
+-------------------------------------------
+
+========= 2016-12-12 20:51:18 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:19
+-------------------------------------------
+
+========= 2016-12-12 20:51:19 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:20
+-------------------------------------------
+
+========= 2016-12-12 20:51:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:21
+-------------------------------------------
+
+========= 2016-12-12 20:51:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:51:22
+-------------------------------------------
+
+========= 2016-12-12 20:51:22 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 88, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:53:07
+-------------------------------------------
+
+========= 2016-12-12 20:53:07 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:08
+-------------------------------------------
+
+========= 2016-12-12 20:53:08 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:09
+-------------------------------------------
+
+========= 2016-12-12 20:53:09 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:10
+-------------------------------------------
+
+========= 2016-12-12 20:53:10 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:11
+-------------------------------------------
+
+========= 2016-12-12 20:53:11 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:12
+-------------------------------------------
+
+========= 2016-12-12 20:53:12 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:13
+-------------------------------------------
+
+========= 2016-12-12 20:53:13 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:14
+-------------------------------------------
+
+========= 2016-12-12 20:53:14 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:15
+-------------------------------------------
+
+========= 2016-12-12 20:53:15 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:16
+-------------------------------------------
+
+========= 2016-12-12 20:53:16 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:17
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:53:17 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|666.66|2010|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+
+-------------------------------------------
+Time: 2016-12-12 20:53:18
+-------------------------------------------
+
+========= 2016-12-12 20:53:18 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:19
+-------------------------------------------
+
+========= 2016-12-12 20:53:19 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:20
+-------------------------------------------
+
+========= 2016-12-12 20:53:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:21
+-------------------------------------------
+
+========= 2016-12-12 20:53:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:22
+-------------------------------------------
+
+========= 2016-12-12 20:53:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:23
+-------------------------------------------
+
+========= 2016-12-12 20:53:23 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:24
+-------------------------------------------
+
+========= 2016-12-12 20:53:24 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:25
+-------------------------------------------
+
+========= 2016-12-12 20:53:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:26
+-------------------------------------------
+
+========= 2016-12-12 20:53:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:27
+-------------------------------------------
+
+========= 2016-12-12 20:53:27 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:28
+-------------------------------------------
+
+========= 2016-12-12 20:53:28 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:29
+-------------------------------------------
+
+========= 2016-12-12 20:53:29 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:30
+-------------------------------------------
+
+========= 2016-12-12 20:53:30 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:31
+-------------------------------------------
+
+========= 2016-12-12 20:53:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:32
+-------------------------------------------
+
+========= 2016-12-12 20:53:32 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:33
+-------------------------------------------
+
+========= 2016-12-12 20:53:33 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:34
+-------------------------------------------
+
+========= 2016-12-12 20:53:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:35
+-------------------------------------------
+
+========= 2016-12-12 20:53:35 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:36
+-------------------------------------------
+
+========= 2016-12-12 20:53:36 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:37
+-------------------------------------------
+
+========= 2016-12-12 20:53:37 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:38
+-------------------------------------------
+
+========= 2016-12-12 20:53:38 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:39
+-------------------------------------------
+
+========= 2016-12-12 20:53:39 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:40
+-------------------------------------------
+
+========= 2016-12-12 20:53:40 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:41
+-------------------------------------------
+
+========= 2016-12-12 20:53:41 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:42
+-------------------------------------------
+
+========= 2016-12-12 20:53:42 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:43
+-------------------------------------------
+
+========= 2016-12-12 20:53:43 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:44
+-------------------------------------------
+
+========= 2016-12-12 20:53:44 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:45
+-------------------------------------------
+
+========= 2016-12-12 20:53:45 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:46
+-------------------------------------------
+
+========= 2016-12-12 20:53:46 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:47
+-------------------------------------------
+
+========= 2016-12-12 20:53:47 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:48
+-------------------------------------------
+
+========= 2016-12-12 20:53:48 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:49
+-------------------------------------------
+
+========= 2016-12-12 20:53:49 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:50
+-------------------------------------------
+
+========= 2016-12-12 20:53:50 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:51
+-------------------------------------------
+
+========= 2016-12-12 20:53:51 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:52
+-------------------------------------------
+
+========= 2016-12-12 20:53:52 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:53
+-------------------------------------------
+
+========= 2016-12-12 20:53:53 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:54
+-------------------------------------------
+
+========= 2016-12-12 20:53:54 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:55
+-------------------------------------------
+
+========= 2016-12-12 20:53:55 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:56
+-------------------------------------------
+
+========= 2016-12-12 20:53:56 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:57
+-------------------------------------------
+
+========= 2016-12-12 20:53:57 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:58
+-------------------------------------------
+
+========= 2016-12-12 20:53:58 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:53:59
+-------------------------------------------
+
+========= 2016-12-12 20:53:59 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:00
+-------------------------------------------
+
+========= 2016-12-12 20:54:00 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:01
+-------------------------------------------
+
+========= 2016-12-12 20:54:01 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:02
+-------------------------------------------
+
+========= 2016-12-12 20:54:02 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:03
+-------------------------------------------
+
+========= 2016-12-12 20:54:03 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:04
+-------------------------------------------
+
+========= 2016-12-12 20:54:04 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:05
+-------------------------------------------
+
+========= 2016-12-12 20:54:05 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:06
+-------------------------------------------
+
+========= 2016-12-12 20:54:06 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:07
+-------------------------------------------
+
+========= 2016-12-12 20:54:07 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:08
+-------------------------------------------
+
+========= 2016-12-12 20:54:08 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:09
+-------------------------------------------
+
+========= 2016-12-12 20:54:09 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 87, in <module>
+    ssc.start()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:54:20
+-------------------------------------------
+
+========= 2016-12-12 20:54:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:21
+-------------------------------------------
+
+========= 2016-12-12 20:54:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:22
+-------------------------------------------
+
+========= 2016-12-12 20:54:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:23
+-------------------------------------------
+
+========= 2016-12-12 20:54:23 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:24
+-------------------------------------------
+
+========= 2016-12-12 20:54:24 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:25
+-------------------------------------------
+
+========= 2016-12-12 20:54:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:26
+-------------------------------------------
+
+========= 2016-12-12 20:54:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:27
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:54:27 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
+-------------------------------------------
+Time: 2016-12-12 20:54:28
+-------------------------------------------
+
+========= 2016-12-12 20:54:28 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:29
+-------------------------------------------
+
+========= 2016-12-12 20:54:29 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:30
+-------------------------------------------
+
+========= 2016-12-12 20:54:30 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:31
+-------------------------------------------
+
+========= 2016-12-12 20:54:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:54:32
+-------------------------------------------
+
+========= 2016-12-12 20:54:32 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 88, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:56:22
+-------------------------------------------
+
+========= 2016-12-12 20:56:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:23
+-------------------------------------------
+
+========= 2016-12-12 20:56:23 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:24
+-------------------------------------------
+
+========= 2016-12-12 20:56:24 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:25
+-------------------------------------------
+
+========= 2016-12-12 20:56:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:26
+-------------------------------------------
+
+========= 2016-12-12 20:56:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:27
+-------------------------------------------
+
+========= 2016-12-12 20:56:27 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:28
+-------------------------------------------
+
+========= 2016-12-12 20:56:28 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:29
+-------------------------------------------
+
+========= 2016-12-12 20:56:29 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:30
+-------------------------------------------
+
+========= 2016-12-12 20:56:30 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:31
+-------------------------------------------
+
+========= 2016-12-12 20:56:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:32
+-------------------------------------------
+
+========= 2016-12-12 20:56:32 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:33
+-------------------------------------------
+
+========= 2016-12-12 20:56:33 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:34
+-------------------------------------------
+
+========= 2016-12-12 20:56:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:35
+-------------------------------------------
+
+========= 2016-12-12 20:56:35 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:36
+-------------------------------------------
+
+========= 2016-12-12 20:56:36 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:37
+-------------------------------------------
+
+========= 2016-12-12 20:56:37 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:38
+-------------------------------------------
+
+========= 2016-12-12 20:56:38 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:39
+-------------------------------------------
+
+========= 2016-12-12 20:56:39 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:40
+-------------------------------------------
+
+========= 2016-12-12 20:56:40 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:41
+-------------------------------------------
+
+========= 2016-12-12 20:56:41 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:42
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:56:42 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|666.66|2010|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+
+
+-------------------------------------------
+Time: 2016-12-12 20:56:43
+-------------------------------------------
+
+========= 2016-12-12 20:56:43 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:44
+-------------------------------------------
+
+========= 2016-12-12 20:56:44 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:45
+-------------------------------------------
+
+========= 2016-12-12 20:56:45 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:46
+-------------------------------------------
+
+========= 2016-12-12 20:56:46 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:47
+-------------------------------------------
+
+========= 2016-12-12 20:56:47 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:48
+-------------------------------------------
+
+========= 2016-12-12 20:56:48 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:49
+-------------------------------------------
+
+========= 2016-12-12 20:56:49 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:50
+-------------------------------------------
+
+========= 2016-12-12 20:56:50 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:56:51
+-------------------------------------------
+
+========= 2016-12-12 20:56:51 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 87, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 20:58:14
+-------------------------------------------
+
+========= 2016-12-12 20:58:14 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:15
+-------------------------------------------
+
+========= 2016-12-12 20:58:15 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:16
+-------------------------------------------
+
+========= 2016-12-12 20:58:16 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:17
+-------------------------------------------
+
+========= 2016-12-12 20:58:17 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:18
+-------------------------------------------
+
+========= 2016-12-12 20:58:18 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:19
+-------------------------------------------
+
+========= 2016-12-12 20:58:19 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:20
+-------------------------------------------
+
+========= 2016-12-12 20:58:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:21
+-------------------------------------------
+
+========= 2016-12-12 20:58:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:22
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 20:58:22 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|valueDouble|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|666.66|2010|     666.66|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+
+-------------------------------------------
+Time: 2016-12-12 20:58:23
+-------------------------------------------
+
+========= 2016-12-12 20:58:23 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:24
+-------------------------------------------
+
+========= 2016-12-12 20:58:24 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:25
+-------------------------------------------
+
+========= 2016-12-12 20:58:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:26
+-------------------------------------------
+
+========= 2016-12-12 20:58:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:27
+-------------------------------------------
+
+========= 2016-12-12 20:58:27 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:28
+-------------------------------------------
+
+========= 2016-12-12 20:58:28 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 20:58:29
+-------------------------------------------
+
+========= 2016-12-12 20:58:29 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 88, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 21:01:12
+-------------------------------------------
+
+========= 2016-12-12 21:01:12 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:13
+-------------------------------------------
+
+========= 2016-12-12 21:01:13 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:14
+-------------------------------------------
+
+========= 2016-12-12 21:01:14 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:15
+-------------------------------------------
+
+========= 2016-12-12 21:01:15 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:16
+-------------------------------------------
+
+========= 2016-12-12 21:01:16 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:17
+-------------------------------------------
+
+========= 2016-12-12 21:01:17 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:18
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 21:01:18 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|valueDouble|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|666.66|2010|     666.66|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+
++-------+--------+
+|country|Spending|
++-------+--------+
+|Austria|  666.66|
++-------+--------+
+
+-------------------------------------------
+Time: 2016-12-12 21:01:19
+-------------------------------------------
+
+========= 2016-12-12 21:01:19 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:20
+-------------------------------------------
+
+========= 2016-12-12 21:01:20 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:21
+-------------------------------------------
+
+========= 2016-12-12 21:01:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:22
+-------------------------------------------
+
+========= 2016-12-12 21:01:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:23
+-------------------------------------------
+
+========= 2016-12-12 21:01:23 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:24
+-------------------------------------------
+
+========= 2016-12-12 21:01:24 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:25
+-------------------------------------------
+
+========= 2016-12-12 21:01:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:26
+-------------------------------------------
+
+========= 2016-12-12 21:01:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:27
+-------------------------------------------
+
+========= 2016-12-12 21:01:27 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:28
+-------------------------------------------
+
+========= 2016-12-12 21:01:28 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:29
+-------------------------------------------
+
+========= 2016-12-12 21:01:29 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:01:30
+-------------------------------------------
+
+========= 2016-12-12 21:01:30 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 90, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 21:02:13
+-------------------------------------------
+
+========= 2016-12-12 21:02:13 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:14
+-------------------------------------------
+
+========= 2016-12-12 21:02:14 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:15
+-------------------------------------------
+
+========= 2016-12-12 21:02:15 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:16
+-------------------------------------------
+
+========= 2016-12-12 21:02:16 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:17
+-------------------------------------------
+
+========= 2016-12-12 21:02:17 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:18
+-------------------------------------------
+
+========= 2016-12-12 21:02:18 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:19
+-------------------------------------------
+
+========= 2016-12-12 21:02:19 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:20
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 21:02:20 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|valueDouble|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|666.66|2010|     666.66|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+
++-------+--------+
+|country|Spending|
++-------+--------+
+|Austria|  666.66|
++-------+--------+
+
+-------------------------------------------
+Time: 2016-12-12 21:02:21
+-------------------------------------------
+
+========= 2016-12-12 21:02:21 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:22
+-------------------------------------------
+
+========= 2016-12-12 21:02:22 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:23
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 21:02:23 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'777.77', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'777.77', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|valueDouble|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|777.77|2010|     777.77|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+
++-------+--------+
+|country|Spending|
++-------+--------+
+|Austria|  777.77|
++-------+--------+
+
+-------------------------------------------
+Time: 2016-12-12 21:02:24
+-------------------------------------------
+
+========= 2016-12-12 21:02:24 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:25
+-------------------------------------------
+
+========= 2016-12-12 21:02:25 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:26
+-------------------------------------------
+
+========= 2016-12-12 21:02:26 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:27
+-------------------------------------------
+
+========= 2016-12-12 21:02:27 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:28
+-------------------------------------------
+
+========= 2016-12-12 21:02:28 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:29
+-------------------------------------------
+
+========= 2016-12-12 21:02:29 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:30
+-------------------------------------------
+
+========= 2016-12-12 21:02:30 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:31
+-------------------------------------------
+
+========= 2016-12-12 21:02:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:32
+-------------------------------------------
+
+========= 2016-12-12 21:02:32 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:33
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,9999.99,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 21:02:33 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,9999.99,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'9999.99', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'9999.99', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+-------+----+-----------+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode|  value|year|valueDouble|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+-------+----+-----------+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|9999.99|2010|    9999.99|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+-------+----+-----------+
+
++-------+--------+
+|country|Spending|
++-------+--------+
+|Austria| 9999.99|
++-------+--------+
+
+-------------------------------------------
+Time: 2016-12-12 21:02:34
+-------------------------------------------
+
+========= 2016-12-12 21:02:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:35
+-------------------------------------------
+
+========= 2016-12-12 21:02:35 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:36
+-------------------------------------------
+
+========= 2016-12-12 21:02:36 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:37
+-------------------------------------------
+
+========= 2016-12-12 21:02:37 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 21:02:38
+-------------------------------------------
+
+========= 2016-12-12 21:02:38 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 90, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 91, in <module>
+    transactionsDataFrame = spark.createDataFrame(parsedRDD)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/sql/session.py", line 522, in createDataFrame
+TypeError: 'NoneType' object is not iterable
+========= 2016-12-12 21:18:37 =========
+[]
+========= 2016-12-12 21:18:38 =========
+[]
+========= 2016-12-12 21:18:39 =========
+[]
+========= 2016-12-12 21:18:40 =========
+[]
+========= 2016-12-12 21:18:41 =========
+[]
+========= 2016-12-12 21:18:42 =========
+[]
+========= 2016-12-12 21:18:43 =========
+[]
+========= 2016-12-12 21:18:44 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,9999.99,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'9999.99', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'9999.99', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+-------+----+-----------+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode|  value|year|valueDouble|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+-------+----+-----------+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|9999.99|2010|    9999.99|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+-------+----+-----------+
+
++-------+--------+
+|country|Spending|
++-------+--------+
+|Austria| 9999.99|
++-------+--------+
+
+========= 2016-12-12 21:18:45 =========
+[]
+========= 2016-12-12 21:18:46 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'777.77', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'777.77', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|valueDouble|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|777.77|2010|     777.77|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+
++-------+--------+
+|country|Spending|
++-------+--------+
+|Austria|  777.77|
++-------+--------+
+
+========= 2016-12-12 21:18:47 =========
+[]
+========= 2016-12-12 21:18:48 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+[u'AUT', u'Austria', u'TLYCG', u'Total government expenditure', u'010', u'General public services', u'GS13', u'General government', u'C', u'Current prices', u'2010', u'2010', u'EUR', u'Euro', u'6', u'Millions', u'', u'', u'666.66', u'', u'']
+Row(activity=u'010', country=u'Austria', flagCodes=u'', flags=u'', function=u'General public services', location=u'AUT', measure=u'C', measureExp=u'Current prices', powerCode=u'Millions', powerCodeCode=u'6', referencePeriodCode=u'', referncePeriod=u'', sector=u'GS13', sectorExp=u'General government', time=u'2010', transact=u'TLYCG', transaction=u'Total government expenditure', unit=u'Euro', unitCode=u'EUR', value=u'666.66', year=u'2010')
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|activity|country|flagCodes|flags|            function|location|measure|    measureExp|powerCode|powerCodeCode|referencePeriodCode|referncePeriod|sector|         sectorExp|time|transact|         transaction|unit|unitCode| value|year|valueDouble|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+|     010|Austria|         |     |General public se...|     AUT|      C|Current prices| Millions|            6|                   |              |  GS13|General government|2010|   TLYCG|Total government ...|Euro|     EUR|666.66|2010|     666.66|
++--------+-------+---------+-----+--------------------+--------+-------+--------------+---------+-------------+-------------------+--------------+------+------------------+----+--------+--------------------+----+--------+------+----+-----------+
+
++-------+--------+
+|country|Spending|
++-------+--------+
+|Austria|  666.66|
++-------+--------+
+
+========= 2016-12-12 21:18:49 =========
+[]
+========= 2016-12-12 21:18:50 =========
+[]
+========= 2016-12-12 21:18:51 =========
+[]
+========= 2016-12-12 21:18:52 =========
+[]
+========= 2016-12-12 21:18:53 =========
+[]
+========= 2016-12-12 21:18:54 =========
+[]
+========= 2016-12-12 21:18:55 =========
+[]
+========= 2016-12-12 21:18:56 =========
+[]
+========= 2016-12-12 21:18:57 =========
+[]
+========= 2016-12-12 21:18:58 =========
+[]
+========= 2016-12-12 21:18:59 =========
+[]
+========= 2016-12-12 21:19:00 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 85, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt

@@ -1,0 +1,232 @@
+-------------------------------------------
+Time: 2016-12-12 19:42:39
+-------------------------------------------
+
+========= 2016-12-12 19:42:39 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:40
+-------------------------------------------
+
+========= 2016-12-12 19:42:40 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:41
+-------------------------------------------
+
+========= 2016-12-12 19:42:41 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:42
+-------------------------------------------
+
+========= 2016-12-12 19:42:42 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:43
+-------------------------------------------
+
+========= 2016-12-12 19:42:43 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:44
+-------------------------------------------
+
+========= 2016-12-12 19:42:44 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:45
+-------------------------------------------
+
+========= 2016-12-12 19:42:45 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:46
+-------------------------------------------
+
+========= 2016-12-12 19:42:46 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:47
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 19:42:47 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 19:42:48
+-------------------------------------------
+
+========= 2016-12-12 19:42:48 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:49
+-------------------------------------------
+
+========= 2016-12-12 19:42:49 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:50
+-------------------------------------------
+
+========= 2016-12-12 19:42:50 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:42:51
+-------------------------------------------
+
+========= 2016-12-12 19:42:51 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 70, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 19:45:38
+-------------------------------------------
+
+========= 2016-12-12 19:45:38 =========
+[]
+[]
+-------------------------------------------
+Time: 2016-12-12 19:45:39
+-------------------------------------------
+
+========= 2016-12-12 19:45:39 =========
+[]
+[]
+-------------------------------------------
+Time: 2016-12-12 19:45:40
+-------------------------------------------
+
+========= 2016-12-12 19:45:40 =========
+[]
+[]
+-------------------------------------------
+Time: 2016-12-12 19:45:41
+-------------------------------------------
+
+========= 2016-12-12 19:45:41 =========
+[]
+[]
+-------------------------------------------
+Time: 2016-12-12 19:45:42
+-------------------------------------------
+
+========= 2016-12-12 19:45:42 =========
+[]
+[]
+-------------------------------------------
+Time: 2016-12-12 19:45:43
+-------------------------------------------
+
+========= 2016-12-12 19:45:43 =========
+[]
+[]
+-------------------------------------------
+Time: 2016-12-12 19:45:44
+-------------------------------------------
+
+========= 2016-12-12 19:45:44 =========
+[]
+[]
+-------------------------------------------
+Time: 2016-12-12 19:45:45
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 19:45:45 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,777.77,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 19:45:46
+-------------------------------------------
+
+========= 2016-12-12 19:45:46 =========
+[]
+[]
+-------------------------------------------
+Time: 2016-12-12 19:45:47
+-------------------------------------------
+
+========= 2016-12-12 19:45:47 =========
+[]
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 72, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+-------------------------------------------
+Time: 2016-12-12 19:47:29
+-------------------------------------------
+
+========= 2016-12-12 19:47:29 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:47:30
+-------------------------------------------
+
+========= 2016-12-12 19:47:30 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:47:31
+-------------------------------------------
+
+========= 2016-12-12 19:47:31 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:47:32
+-------------------------------------------
+
+========= 2016-12-12 19:47:32 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:47:33
+-------------------------------------------
+{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}
+
+========= 2016-12-12 19:47:33 =========
+[{u'payload': u'AUT,Austria,TLYCG,Total government expenditure,010,General public services,GS13,General government,C,Current prices,2010,2010,EUR,Euro,6,Millions,,,666.66,,', u'schema': {u'optional': False, u'type': u'string'}}]
+-------------------------------------------
+Time: 2016-12-12 19:47:34
+-------------------------------------------
+
+========= 2016-12-12 19:47:34 =========
+[]
+-------------------------------------------
+Time: 2016-12-12 19:47:35
+-------------------------------------------
+
+========= 2016-12-12 19:47:35 =========
+[]
+Traceback (most recent call last):
+  File "/home/jayam/PycharmProjects/FirstSpark/Stream2.py", line 73, in <module>
+    ssc.awaitTermination()
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/context.py", line 206, in awaitTermination
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 931, in __call__
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+  File "/usr/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+Exception in thread Thread-3 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 1872, in run
+  File "/usr/local/spark/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 1901, in _call_proxy
+  File "/usr/local/spark/python/lib/pyspark.zip/pyspark/streaming/util.py", line 69, in call
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'format_exc'

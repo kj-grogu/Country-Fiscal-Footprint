@@ -1,0 +1,51 @@
+Kafka
+
+https://kafka.apache.org/quickstart
+----------------------------------------------------------------
+Step 2: Start the server
+
+zookeeper
+> bin/zookeeper-server-start.sh config/zookeeper.properties
+
+Now start the Kafka server:
+> bin/kafka-server-start.sh config/server.properties
+----------------------------------------------------------------
+
+Step 3: Create a topic
+> bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
+
+
+
+We can now see that topic if we run the list topic command:
+> bin/kafka-topics.sh --list --zookeeper localhost:2181
+
+----------------------------------------------------------------
+
+Step 4: Send some messages
+
+> bin/kafka-console-producer.sh --broker-list localhost:9092 --topic test
+
+----------------------------------------------------------------
+
+Step 5: Start a consumer
+
+ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning --zookeeper localhost:2181
+
+----------------------------------------------------------------
+
+
+Step for spark + kafka integration
+
+
+spark-submit  --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.1 <flie.py> --verbose
+
+----------------------------------------------------------------
+
+Step 6:
+Use Kafka Connect to import/export data 
+bin/connect-standalone.sh config/connect-standalone.properties config/connect-file-source.properties config/connect-file-sink.properties
+
+The defaults are as below 
+file=test.txt
+topic=connect-test  -- use this topic as a hook for spark to stream to
+sinkFile = test.sink.txt

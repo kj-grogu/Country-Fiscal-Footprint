@@ -1,0 +1,31 @@
+First had to add these environment variables to Pycharm
+
+#1) Go to Run -> Edit configurations
+Add new Python configuration
+Set Script path so it points to the script you want to execute <pathToYourScript.py>
+Edit Environment variables field so it contains at least:
+SPARK_HOME - it should point to the directory with Spark installation.
+It should contain directories such as bin (with spark-submit, spark-shell, etc.)
+and conf (with spark-defaults.conf, spark-env.sh, etc.)
+
+
+
+[ mine ]
+SPARK_HOME  --  /usr/local/spark/
+PYTHONPATH  --  $SPARK_HOME/python;$SPARK_HOME/python/lib/py4j-0.10.1-src.zip
+
+
+PYTHONPATH - it should contain $SPARK_HOME/python and optionally $SPARK_HOME/python/lib/py4j-some-version.src.zip
+if not available otherwise. some-version should match Py4J version used by a given Spark installation (0.8.2.1 -
+
+
+#2) Add pyspark and py4j to content root (use the correct Spark version).
+
+Go to file -> Settings -> Project -> ProjectStructure
+add the Content Root
+Click the "+" button and the zips present under spark/python/lib
+There are 2 zips
+a) pyspark.zip
+b) py4j<someVersion>.zip
+
+Add both of these & boom, pyspark module imported.
